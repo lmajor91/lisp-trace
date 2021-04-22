@@ -6,4 +6,4 @@ This is meant to be a learning experience for me to get into the world of hackin
 Inspiration and some code was taken from k-stz. Find his GitHub [here](https://github.com/k-stz/cl-ptrace).
 
 # Liscense
-**GNU**
+**MIT**

@@ -1,3 +1,5 @@
+//// This file is meant for me to look through the C header files to better understand the structure of ptrace and the functions.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/ptrace.h>

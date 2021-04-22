@@ -1,3 +1,5 @@
+;;;; This file is for me to look through the decompiled assembly code to better understand the program.
+
 	.file	"prog.c"
 	.text
 	.globl	flag

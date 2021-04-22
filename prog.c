@@ -1,3 +1,5 @@
+//// This is a simple program meant to be hacked using ptrace. The flag can be found within the RIP register.
+
 #include <stdio.h>
 
 int flag = 0xABCD;
